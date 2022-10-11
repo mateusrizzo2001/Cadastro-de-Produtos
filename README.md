@@ -1,4 +1,4 @@
-Cadastrador de Pordutos feita em React Native
+Cadastrador de Produtos feita em React Native
 
 Trabalho feito para da Disciplina de Programação Para Dispositivos Móveis em Android. 
 
